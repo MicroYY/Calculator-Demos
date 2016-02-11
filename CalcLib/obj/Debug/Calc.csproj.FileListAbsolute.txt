@@ -1,0 +1,5 @@
+F:\Github\Calculator-Demos\Calc\bin\Debug\Calc.dll
+F:\Github\Calculator-Demos\Calc\bin\Debug\Calc.pdb
+F:\Github\Calculator-Demos\Calc\obj\Debug\Calc.dll
+F:\Github\Calculator-Demos\Calc\obj\Debug\Calc.pdb
+F:\Github\Calculator-Demos\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache

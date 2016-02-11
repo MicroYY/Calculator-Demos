@@ -1,0 +1,4 @@
+F:\Github\Calculator-Demos\Calc\bin\Debug\CalcLib.dll
+F:\Github\Calculator-Demos\Calc\bin\Debug\CalcLib.pdb
+F:\Github\Calculator-Demos\Calc\obj\Debug\CalcLib.dll
+F:\Github\Calculator-Demos\Calc\obj\Debug\CalcLib.pdb

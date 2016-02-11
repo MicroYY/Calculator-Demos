@@ -102,6 +102,7 @@ loop:
 			calc[ds2] = '\0';
 			ds1--;
 		}
+	//printf("%d", sizeof(calc));
 	printf("Result=%g\n", fun1()); //计算表达式的值并输出
 	printf("Continue(y/n)?"); //计算下一算式的提示
 	switch (_getch())

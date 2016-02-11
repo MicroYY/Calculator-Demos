@@ -1,0 +1,5 @@
+F:\Github\Calculator-Demos\CSharp console\bin\Debug\CSharp console.exe.config
+F:\Github\Calculator-Demos\CSharp console\bin\Debug\CSharp console.exe
+F:\Github\Calculator-Demos\CSharp console\bin\Debug\CSharp console.pdb
+F:\Github\Calculator-Demos\CSharp console\obj\Debug\CSharp console.exe
+F:\Github\Calculator-Demos\CSharp console\obj\Debug\CSharp console.pdb
